@@ -17,5 +17,6 @@ end
 end
 
 def printer(badge_maker)
-gets.chomp = badge_maker
+names.each do |i|
+   
 end
