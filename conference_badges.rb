@@ -18,5 +18,5 @@ end
 
 def printer(badge_maker)
 badge_maker(names).each do |name|
-   puts names
+   puts name
 end
