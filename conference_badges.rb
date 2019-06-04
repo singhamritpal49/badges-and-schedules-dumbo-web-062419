@@ -17,5 +17,4 @@ end
 
 def printer(guests)
 
-
 end
