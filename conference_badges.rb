@@ -9,7 +9,7 @@ def batch_badge_creator(names)
 end
 
 def assign_rooms(guests)
-  guests.each_with_index do |i,index|
+  guests.collect.each_with_index do |i,index|
      "Hello, #{i}! You'll be assigned to room #{index += 1}!"
 
 end
