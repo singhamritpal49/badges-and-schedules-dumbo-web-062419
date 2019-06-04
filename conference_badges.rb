@@ -14,8 +14,8 @@ def assign_rooms(names)
     #new_array.push(i)
     #puts "Hello, #{name}! You'll be assigned to room #{index += 1}!"
     #return new_array
-     new_array.push(i)
-     return new_array
+     #new_array.push(i)
+     puts i
   }
 
 end
