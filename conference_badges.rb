@@ -15,6 +15,6 @@ def assign_rooms(guests)
 end
 end
 
-def printer(guests)
+def printer(badge_maker)
 
 end
