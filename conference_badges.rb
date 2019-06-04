@@ -1,3 +1,4 @@
+names = ["Edsger", "Ada", "Charles","Alan", "Grace", "Linus","Matz"]
 def badge_maker(name)
   return "Hello, my name is #{name}."
 end
@@ -16,5 +17,5 @@ end
 end
 
 def printer(badge_maker)
-
+gets.chomp = badge_maker
 end
