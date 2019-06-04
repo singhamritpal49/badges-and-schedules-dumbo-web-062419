@@ -14,3 +14,8 @@ def assign_rooms(guests)
 
 end
 end
+
+def printer(guests)
+
+
+end
